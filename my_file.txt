@@ -1,0 +1,6 @@
+This is line 1.
+The number is 42.
+Python file handling demo.
+This is an appended line 1.
+Another number is 99.
+File handling assignment continued.
